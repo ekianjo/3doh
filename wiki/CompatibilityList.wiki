@@ -1,0 +1,14 @@
+#summary Game Compatibility list.
+
+= Introduction =
+
+Game Compatibility list. If you have tested a game that is not on the list, please send info to gabriel-at-arcadenea-dot-com-dot-ar
+
+
+= Game List =
+
+||Game||Status||Comments||
+||The Need for Speed||Working||slow||
+||Gex||Partial||Hangs in first level||
+||Wolfestein 3D||Working||--||
+||Fifa International Soccer||Working||--||
