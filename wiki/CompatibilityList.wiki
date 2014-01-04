@@ -10,6 +10,7 @@ Game Compatibility list. If you have tested a game that is not on the list, plea
 ||Game||Status||Comments||
 ||Fifa International Soccer||Working||--||
 ||Gex||Partial||Hangs in first level||
+||Road Rash||Working||--||
 ||Super Street Fighter 2 Turbo||Partial||Random Crashes||
 ||The Need for Speed||Working||slow||
 ||Way of The Warrior||Working||--||
